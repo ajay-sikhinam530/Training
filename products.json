@@ -1,0 +1,68 @@
+{
+    "items":[
+        {
+            "sys":{"id":"1"},
+            "fields":{
+                "title":"Python programming master course",
+                "price": 499.00,
+                "image":{"fields":{"file":{"url":"images/Python.png"}}}
+            }
+        },
+        {
+            "sys":{"id":"2"},
+            "fields":{
+                "title":"C++ Mastercourse",
+                "price": 599.00,
+                "image":{"fields":{"file":{"url":"images/c++.png"}}}
+            }
+        },
+        {
+            "sys":{"id":"3"},
+            "fields":{
+                "title":"Web development for Beginners",
+                "price": 499.00,
+                "image":{"fields":{"file":{"url":"images/web1.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"4"},
+            "fields":{
+                "title":"Java Programming Mastercourse",
+                "price": 299.00,
+                "image":{"fields":{"file":{"url":"images/java.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"5"},
+            "fields":{
+                "title":"Digital Marketing Full Course",
+                "price": 499.00,
+                "image":{"fields":{"file":{"url":"images/web2.png"}}}
+            }
+        },
+        {
+            "sys":{"id":"6"},
+            "fields":{
+                "title":"Advanced Web Development",
+                "price": 799.00,
+                "image":{"fields":{"file":{"url":"images/web2.png"}}}
+            }
+        },
+        {
+            "sys":{"id":"7"},
+            "fields":{
+                "title":"Data Structues and Algorithms",
+                "price": 499.00,
+                "image":{"fields":{"file":{"url":"images/data.jpg"}}}
+            }
+        },
+        {
+            "sys":{"id":"8"},
+            "fields":{
+                "title":"Data Science Full Course",
+                "price": 699.00,
+                "image":{"fields":{"file":{"url":"images/datascience.png"}}}
+            }
+        }
+    ]
+}
